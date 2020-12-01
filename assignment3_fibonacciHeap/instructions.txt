@@ -1,0 +1,41 @@
+Name: Muhammad Afzal Ismail
+Student ID: 20207389
+
+Instructions
+
+The program is implemented in Java. It can be opened using any Java IDEs, such as
+the IntelliJ IDEA, and selecting the folder "assignment3_fibonacciHeap".
+
+The classes 'Node.java' and 'Wheels.java' are used for the wheel data structure.
+The classes 'FibHeapNode.java' and 'FibonacciHeap.java' respectively are similar
+to the classes previously mentioned but with added functions to implement the
+Fibonacci Heap data structure.
+
+The main class of the program is in the src folder and called 'heapRun.java'. It
+is the runnable class of the program and will take as input the name or path of the text
+file that will be used to execute the necessary operations.
+
+To compile and run the program:
+
+1. Open the 'assignment3_fibonacciHeap' folder in IntelliJ.
+
+2. Click on the 'Build' menu and select 'Build project' to build and compile the
+program.
+
+3. Click on the 'Run' menu and click on 'Run...'. A pop up window will appear and
+select 'heapRun', the main runnable class.
+
+4. A command line window will appear on the bottom of the main window. A sentence
+will appear asking the user to enter the name of the text file that will be used
+output all the results of the search operations.
+
+5. Write the name or path of the text file that is needed and press 'Enter'. For
+the test file on the course web page, simply write 'heap0.txt' as there is a
+copy of the text file in the program folder.
+
+6. This should display all the results in the command line window.
+
+Note:
+The results obtained when testing with the 'heap0.txt' text file are incomplete.
+The required output should consist of 10 values. However, the program is giving
+only 8 out of the 10 values.
