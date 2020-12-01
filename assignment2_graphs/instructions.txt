@@ -1,0 +1,21 @@
+Instructions
+
+The program is implemented in Java. It can be opened using any Java IDEs, such as the IntelliJ IDEA, and selecting the folder 'assignment2_graphs'.
+The main class of the program is in the src folder and called 'shortpaths.java'. It contains the main algorithms: Dijkstra's algorithm, the Floyd-Warshall
+algorithm and a conversion function to convert from adjacency list to adjacency matrix.
+
+To compile and run the program:
+
+1. Open the 'assignment2_graphs' folder in IntelliJ.
+
+2. Click on the 'Build' menu and select 'Build Project' to build the project.
+
+3. Click on the 'Run' menu and click on 'Run...'. A pop up window will appear and select 'shortpaths', which is the main runnable class.
+
+4. A command line window will appear on the bottom of the main window. A sentence will appear asking the user to enter the name of the text file
+   that will be used output all the results of the search operations.
+
+5. Write the name or path of the text file that is needed and press 'Enter'. For the test file on the course web page, simply write 'testGraph.txt' as
+   there is a copy of the text file in the program folder.
+
+6. This should display all the results in the command line window.
